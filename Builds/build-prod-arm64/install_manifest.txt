@@ -1,0 +1,4 @@
+/Users/ajay/Desktop/untitled folder/Browser copy/dist-prod-arm64-20260316/./PriFacie.app/Contents/MacOS/PriFacie
+/Users/ajay/Desktop/untitled folder/Browser copy/dist-prod-arm64-20260316/./PriFacie.app/Contents/Resources/favicon.ico
+/Users/ajay/Desktop/untitled folder/Browser copy/dist-prod-arm64-20260316/./PriFacie.app/Contents/Resources/PriFacie.icns
+/Users/ajay/Desktop/untitled folder/Browser copy/dist-prod-arm64-20260316/./PriFacie.app/Contents/Info.plist

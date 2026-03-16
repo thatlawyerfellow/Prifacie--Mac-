@@ -1,0 +1,13 @@
+# ninja log v6
+2	13	1773652976892621712	PriFacie.app/Contents/Resources/favicon.ico	edcfdb336f5d5e0b
+1	315	1773652977203778488	PriFacie.icns	871cce2e134e111c
+1	315	1773652977203778488	/Users/ajay/Desktop/untitled folder/Browser copy/build-prod-arm64/PriFacie.icns	871cce2e134e111c
+315	329	1773652977205803624	PriFacie.app/Contents/Resources/PriFacie.icns	d1e07b48fa71225b
+329	1632	1773652977220306354	CMakeFiles/prifacie-browser.dir/src/main.mm.o	2a9063987363ce5b
+1636	2457	1773652978526924237	CMakeFiles/prifacie-browser.dir/src/engine_adapter_mac.mm.o	7151f253764c5efb
+2458	3158	1773652979348653523	CMakeFiles/prifacie-browser.dir/src/profile_store.cpp.o	32135b146477b327
+330	3356	1773652977220593302	CMakeFiles/prifacie-browser.dir/src/browser_window_mac.mm.o	896ccbe0a6f8c9f3
+3158	3483	1773652980048595503	CMakeFiles/prifacie-browser.dir/src/crypto_utils.cpp.o	c640b47c0380f449
+3356	3982	1773652980246813448	CMakeFiles/prifacie-browser.dir/src/credential_store.cpp.o	55793c618671cf85
+3483	4093	1773652980373853191	CMakeFiles/prifacie-browser.dir/src/browser_data_store.cpp.o	2f192a7fc224910c
+4093	4266	1773652980983399324	PriFacie.app/Contents/MacOS/PriFacie	2db3381c5ff0dc82

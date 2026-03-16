@@ -1,0 +1,7 @@
+/Users/ajay/Desktop/untitled folder/Browser copy/build-prod-arm64/CMakeFiles/prifacie-browser.dir
+/Users/ajay/Desktop/untitled folder/Browser copy/build-prod-arm64/CMakeFiles/edit_cache.dir
+/Users/ajay/Desktop/untitled folder/Browser copy/build-prod-arm64/CMakeFiles/rebuild_cache.dir
+/Users/ajay/Desktop/untitled folder/Browser copy/build-prod-arm64/CMakeFiles/list_install_components.dir
+/Users/ajay/Desktop/untitled folder/Browser copy/build-prod-arm64/CMakeFiles/install.dir
+/Users/ajay/Desktop/untitled folder/Browser copy/build-prod-arm64/CMakeFiles/install/local.dir
+/Users/ajay/Desktop/untitled folder/Browser copy/build-prod-arm64/CMakeFiles/install/strip.dir

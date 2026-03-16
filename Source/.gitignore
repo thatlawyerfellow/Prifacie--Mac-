@@ -1,0 +1,6 @@
+build/
+build-mac/
+cmake-build-*/
+*.swp
+*.swo
+*.DS_Store
